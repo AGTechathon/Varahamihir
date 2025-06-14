@@ -24,3 +24,15 @@ Making a portable massager designed by creatively repourposing pnumatic compress
 
 <h4>Tech Stack</h4>
 
+
+
+
+
+<h4>Contact</h4>
+
+
+📧 GitHub: @patilgururaj02
+📧 Mail:patilgc2002@gmail.com
+
+
+
