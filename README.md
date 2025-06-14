@@ -24,13 +24,13 @@ No involvement of second person<br>
 
 
 <h4>Hardware Components:</h4>
-Microcontroller: Brain of the operation, controlling the entire system.
-Pressure Sensor: Measures pressure levels, often used in industrial or medical applications.
-Solenoid Valve: Electrically controlled valve, used for fluid or gas control.
-Battery: Power source for the system.
-Display Unit: Shows data, readings, or messages to the user.
-Arduino: A popular microcontroller platform for building interactive projects.
-Relay: Electrically operated switch, used to control high-power devices.
+1.Microcontroller: Brain of the operation, controlling the entire system.<br>
+2.Pressure Sensor: Measures pressure levels, often used in industrial or medical applications.<br>
+3.Solenoid Valve: Electrically controlled valve, used for fluid or gas control.<br>
+4.Battery: Power source for the system.<br>
+5.Display Unit: Shows data, readings, or messages to the user.<br>
+6.Arduino: A popular microcontroller platform for building interactive projects.<br>
+7.Relay: Electrically operated switch, used to control high-power devices.<br>
 
 
 <h4>Language Used</h4>
