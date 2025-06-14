@@ -35,23 +35,7 @@ Making a portable massager designed by creatively repourposing pnumatic compress
 
 <h4>Costing </h4>
 
- Sr. No. | Product List | Price |
- 
-| --- | --- | --- |
-| 1 | Blood Pressure Cuff (Arm Cuff with Bladder) | ₹180 |
-| 2 | Pressure Sensor (Transducer) | ₹250 |
-| 3 | Mini Air Pump/Motor | ₹150 |
-| 4 | Microcontroller (MCU) | ₹350 |
-| 5 | Display Screen (LCD) | ₹120 |
-| 6 | Circuit Board (PCB) | ₹70 |
-| 7 | Power Supply/Battery Compartment | ₹60 |
-| 8 | Casing/Housing | ₹120 |
-| 9 | Connectors/Tubing | ₹120 |
-| 10 | Arduino | ₹900 |
-| 11 | Relay | ₹80 |
-| 12 | Other | ₹600 |
-| Total |  | ₹3,000 - ₹3,500 |
-
+ ![image](https://github.com/user-attachments/assets/2c3b66e7-f225-4f84-8ac4-e9c55cffc711)
 
 
 
