@@ -35,40 +35,7 @@ Making a portable massager designed by creatively repourposing pnumatic compress
 
 <h4>Costing </h4>
 
-COST ESTIMATION 
- Components (Approximate Cost: ₹ 2,000 - ₹ 3,000)
- 
-•	Microcontroller (e.g., ESP32, STM32F103C8T6, or Arduino-compatible board): ₹ 350
-o	Rationale: A mid-range microcontroller is needed for processing sensor data, controlling the pump, managing the display, and running both BP and massage algorithms.
-•	Pressure Sensor (for blood pressure measurement, e.g., MPS2012 or similar): ₹ 250
-o	Rationale: A precise and stable pressure sensor is critical for accurate blood pressure readings.
-•	Miniature Air Pump (Diaphragm pump for medical/BP applications): ₹ 150
-o	Rationale: A small, low-power pump capable of inflating the cuff to required pressures (around 180-200 mmhg for BP, potentially lower for massage). Medical-grade mini-pumps tend to be more expensive.
-•	Solenoid Valve (for pressure release): ₹ 150 
-o	Rationale: A fast-acting valve is needed for controlled deflation during blood pressure measurement and rapid release for massage cycles.
-•	Display Unit (e.g., 16x2 LCD or small OLED/TFT display): ₹ 120 
-o	Rationale: For displaying blood pressure readings, pulse rate, and massage mode status.
-•	Battery (Li-ion 3.7V/18650 cell + charger module): ₹ 60
-o	Rationale: For portable operation. Battery capacity will depend on expected usage time.
-•	Power Management ics (ldos, DC-DC converters if needed): ₹ 80
-•	Relay ; ₹ 77 
-•	Miscellaneous Components (Resistors, Capacitors, Diodes, Transistors, Connectors, Wires, Buttons, leds, Buzzer): ₹ 200 
-•	Arduino; ₹ 900 
-7.2. Mechanical Components & Fabrication -
-•	Inflatable Cuff (Standard adult arm cuff, likely reusable NIBP cuff): ₹ 180
-o	Rationale: The core mechanical component for both functions.
-•	Custom Enclosure (3D Printed for prototyping): ₹ 120 (depending on size, material, and complexity, typically ₹ 7-20/gram for FDM printing) 
-o	Rationale: A custom housing to integrate all components securely and ergonomically. For a final year project, 3D printing is a cost-effective prototyping method.
-•	Tubing and Connectors (Medical-grade silicone tubing, quick-connect fittings): ₹ 60 
-o	Rationale: To connect the pump, valve, and cuff.
-•	PCB Fabrication (Small batch, 2-layer PCB): ₹ 120
-o	Rationale: Professional fabrication for a cleaner and more reliable circuit than breadboards/perfboards. This might be for 2-3 prototype boards.
-C. Miscellaneous & Contingency (Approximate Cost: ₹ 500 )
-•	Consumables (Solder, flux, cleaning agents, adhesives, sandpaper)
-•	Tools (if not already owned/provided by lab - e.g., small hand tools, multimeter)
-•	Documentation & Report Printing/Binding.
-•	Contingency (20-30% of total estimated cost)
-o	Rationale: Essential for unexpected costs, component failures, or design changes.
+![image](https://github.com/user-attachments/assets/a1ba0662-bbe1-40c5-94df-a539b3f6284d)
 
 
 <h4>Contact</h4>
