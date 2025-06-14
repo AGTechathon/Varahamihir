@@ -33,7 +33,7 @@ Making a portable massager designed by creatively repourposing pnumatic compress
 7. Relay: Electrically operated switch, used to control high-power devices.
 
 
-<h4>Cosing </h4>
+<h4>Costing </h4>
 
  Sr. No. | Product List | Price |
  
