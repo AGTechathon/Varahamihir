@@ -48,7 +48,7 @@ Relay: Electrically operated switch, used to control high-power devices.
 
 <h4>Costing</h4>
 <br>
-![image](https://github.com/user-attachments/assets/79c5f347-410d-45f8-b6ce-11c116a64562)
+<img src="Costing.png"/>
 
 
 
