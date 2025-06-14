@@ -11,8 +11,8 @@ void setup() {
 void loop() {
   // Main code here
   digitalWrite(ledPin, HIGH);  // Turn Motor on
-  delay(7000);                //  7 second turn on Motor
+  delay(10000);                //  7 second turn on Motor
   digitalWrite(ledPin, LOW);   // Turn Motor off
-  delay(1000);                // 3 second turn off motor
+  delay(3000);                // 3 second turn off motor
 }
 
