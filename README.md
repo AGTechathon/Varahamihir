@@ -14,8 +14,10 @@ The core aim was to create a handy, easy-to-use, and cost-effective unit, addres
 Making a portable massager designed by creatively repourposing pnumatic compression of blood pressure monitorning machine
 
 <h4>Features</h4>
-s
+
+
 1. Portable and Multifunction device
+
 
 2.Light in weight and compact size
 
