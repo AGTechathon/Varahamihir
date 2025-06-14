@@ -30,7 +30,9 @@ Relay: Electrically operated switch, used to control high-power devices.
  C++ programming language is used.
 
 <h4>Costing</h4>
-![image](https://github.com/user-attachments/assets/77be8fb8-f073-4b49-a980-c6c5a732dcfe)
+<br>
+![image](https://github.com/user-attachments/assets/66bcf5a6-5826-4a27-80e9-a08b6c3c4229)
+
 
 
 
