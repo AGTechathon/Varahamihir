@@ -31,8 +31,8 @@ Making a portable massager designed by creatively repourposing pnumatic compress
 <h4>Contact</h4>
 
 
-📧 GitHub: @patilgururaj02
-📧 Mail:patilgc2002@gmail.com
+📧 GitHub: @patilgururaj02 <br>
+📧 Gmail:patilgc2002@gmail.com
 
 
 
