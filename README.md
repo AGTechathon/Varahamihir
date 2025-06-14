@@ -35,8 +35,8 @@ Making a portable massager designed by creatively repourposing pnumatic compress
 
 <h4>Costing </h4>
 
+![image](https://github.com/user-attachments/assets/76945370-1adc-472f-ab83-4e2e4244537e)
 
- ![image](https://github.com/user-attachments/assets/e3f1d975-63de-4e45-8f10-f3649268ce2f)
 
 <h4>Contact</h4>
 
