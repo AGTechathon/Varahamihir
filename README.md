@@ -22,7 +22,15 @@ Making a portable massager designed by creatively repourposing pnumatic compress
 4. Painless massager
 5. No involvement of second person
 
-<h4>Tech Stack</h4>
+<h4>Hardware Components:</h4>
+
+1. Microcontroller: Brain of the operation, controlling the entire system.
+2. Pressure Sensor: Measures pressure levels, often used in industrial or medical applications.
+3. Solenoid Valve: Electrically controlled valve, used for fluid or gas control.
+4. Battery: Power source for the system.
+5. Display Unit: Shows data, readings, or messages to the user.
+6. Arduino: A popular microcontroller platform for building interactive projects.
+7. Relay: Electrically operated switch, used to control high-power devices.
 
 
 
