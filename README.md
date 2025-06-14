@@ -17,14 +17,9 @@ Making a portable massager designed by creatively repourposing pnumatic compress
 
 
 1. Portable and Multifunction device
-
-
-  2.Light in weight and compact size
-
+2. Light in weight and compact size
 3. Economical
-
 4. Painless massager
-
 5. No involvement of second person
 
 <h4>Tech Stack</h4>
