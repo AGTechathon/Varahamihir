@@ -33,17 +33,17 @@ Relay: Electrically operated switch, used to control high-power devices.
 <h4>Procedure</h4> 
 
 <h4>MASSAGE</h4>
-1. PREPARE :- sit still, relax,and elevate your legs.<br>
-2. ⁠BELT POSITION :- place the belt around your paining part of body <br>
-3. ⁠SET THE DURATION :- start the device,and set the duration of massage as per the requirement to get the massage <br>
-4. ⁠RESULT :- after completion of task remove the belt and the pack the device properly <br>
+1. Prepare :- sit still, relax,and elevate your legs.<br>
+2. ⁠Belt Position :- place the belt around your paining part of body <br>
+3. ⁠Swt The Duration :- start the device,and set the duration of massage as per the requirement to get the massage <br>
+4. ⁠Result :- after completion of task remove the belt and the pack the device properly <br>
                                                               
 
 <h4>⁠BLOOD PRESURE </h4><br>
-1. PREPARE :- sit still, relax,and elevate your legs.<br>
-2. ⁠BELT POSITION :- place the belt around your upper arm with the velcro facing up <br>
-3. ⁠CUFF INFLATION :- press a button to start the device. Your monitor inflates automatically <br>
-4. ⁠RESULT :- cuff will slowly inflate and monitor will display blood pressure in digital format
+1. Prepare :- sit still, relax,and elevate your legs.<br>
+2. ⁠⁠Belt Position :- place the belt around your upper arm with the velcro facing up <br>
+3. ⁠Cuff Inflation :- press a button to start the device. Your monitor inflates automatically <br>
+4. ⁠Result :- cuff will slowly inflate and monitor will display blood pressure in digital format
 
 
 <h4>Costing</h4>
